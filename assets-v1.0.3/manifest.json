@@ -1,0 +1,41 @@
+{
+  "version": "1.0.3",
+  "tag": "assets-v1.0.3",
+  "files": [
+    {
+      "file": "frontend.js",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.3/assets/js/frontend.js",
+      "integrity": "sha384-KBAqEgcSklrjEVy+XMOiluzbyZH8hvO7fWHQlcy3YbagkbHFggdsgFZr74Laf6Xt",
+      "type": "script",
+      "deps": ["quill.js", "html2canvas.min.js"]
+    },
+    {
+      "file": "frontend.css",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.3/assets/css/frontend.css",
+      "integrity": "sha384-1Szqukghyejq/E3DEqwwmwW7ryAd51DXpqQm6bsf4qmW/hjixTDEqJ89KMyks+NP",
+      "type": "style",
+      "deps": ["quill.snow.css"]
+    },
+    {
+      "file": "quill.js",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.3/assets/lib/quill/quill.js",
+      "integrity": "sha384-utBUCeG4SYaCm4m7GQZYr8Hy8Fpy3V4KGjBZaf4WTKOcwhCYpt/0PfeEe3HNlwx8",
+      "type": "script",
+      "deps": []
+    },
+    {
+      "file": "quill.snow.css",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.3/assets/lib/quill/quill.snow.css",
+      "integrity": "sha384-ecIckRi4QlKYya/FQUbBUjS4qp65jF/J87Guw5uzTbO1C1Jfa/6kYmd6dXUF6D7i",
+      "type": "style",
+      "deps": []
+    },
+    {
+      "file": "html2canvas.min.js",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.3/assets/lib/html2canvas/html2canvas.min.js",
+      "integrity": "sha384-ZZ1pncU3bQe8y31yfZdMFdSpttDoPmOZg2wguVK9almUodir1PghgT0eY7Mrty8H",
+      "type": "script",
+      "deps": []
+    }
+  ]
+}
