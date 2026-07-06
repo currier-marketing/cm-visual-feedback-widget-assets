@@ -1,0 +1,34 @@
+{
+  "version": "1.0.5",
+  "tag": "assets-v1.0.5",
+  "files": [
+    {
+      "file": "widget.css",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.5/assets/dist/widget.css",
+      "integrity": "sha384-I/FBJclow2VpMOmNj/SDyOsug7HEjX8q2S90VNGz3glY0WLkjwnH/Cfqgb5hy9RI",
+      "type": "style",
+      "deps": []
+    },
+    {
+      "file": "widget.js",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.5/assets/dist/widget.js",
+      "integrity": "sha384-Kc6fnFuePYk2VQs8svNxcHD9YszhSLIz2EyqJJZV5Y0Qv6nm0WyWm51uDKgr7GvA",
+      "type": "module",
+      "deps": []
+    },
+    {
+      "file": "quill.js",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.5/assets/dist/quill.js",
+      "integrity": "sha384-CdXg9q4XAU98698N6GcJa4aRGKd88DZ4xTH12Dk/PDsFda29EcxkjUpahz+gMq8j",
+      "type": "module-chunk",
+      "deps": []
+    },
+    {
+      "file": "html2canvas.esm.js",
+      "url": "https://cdn.jsdelivr.net/gh/currier-marketing/cm-visual-feedback-widget-assets@assets-v1.0.5/assets/dist/html2canvas.esm.js",
+      "integrity": "sha384-vGGianpAX3qG1rnE4B6aMOCIxxsDg3jUuhtf/B9Mt22qw7gCzfPQP26VrpSz5P1A",
+      "type": "module-chunk",
+      "deps": []
+    }
+  ]
+}
